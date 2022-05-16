@@ -9,7 +9,7 @@ To play the game:
 1. Click **Save**.
 1. Navigate to the URL provided in the same section.
 
-## Instructions for playing the game
+### Instructions for playing the game
 
 1. Press the space bar to begin.
 2. Use the up and down arrow keys to rotate the shape.
